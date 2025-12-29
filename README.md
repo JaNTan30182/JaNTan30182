@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaNTan30182
 - 👀 I’m interested in online games and game show simulators, along with videos on them.
-- 🌱 I’m currently learning database design through various tools, such as PostgreSQL.
+- 🌱 I’m currently learning deeper concepts of AI and ML.
 - 💞️ I’m looking to collaborate on a cybersecurity-based project yielding protection from online threats.
 - 📫 How to reach me is here.
 - 😄 Pronouns: He/Him
